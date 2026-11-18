@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\11-17-CSharp\bacis\bacis\bin\Debug\bacis.exe.config
+C:\Users\Administrator\Desktop\11-17-CSharp\bacis\bacis\bin\Debug\bacis.exe
+C:\Users\Administrator\Desktop\11-17-CSharp\bacis\bacis\bin\Debug\bacis.pdb
+C:\Users\Administrator\Desktop\11-17-CSharp\bacis\bacis\obj\Debug\bacis.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\11-17-CSharp\bacis\bacis\obj\Debug\bacis.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\11-17-CSharp\bacis\bacis\obj\Debug\bacis.exe
+C:\Users\Administrator\Desktop\11-17-CSharp\bacis\bacis\obj\Debug\bacis.pdb
